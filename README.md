@@ -10,5 +10,5 @@
 |허호녕|Team Leader| Programming : C, C#, Java | UML modeling, Communication Skills |
 |김민수|Implementor, Tester| Programming : C, C#, Python <br> Databases : relational | UML modeling, Node.js framework|
 |최원혁|Implementor, Tester| Programming : C++, C#, Python <br> Databases : relational | UML modeling, Node.js framework|
-|유승민|Document Management||
+|유승민|Document Manager||
 |이산가 비두샤|UX/UI Implementor||
