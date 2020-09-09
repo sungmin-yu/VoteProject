@@ -5,26 +5,13 @@
 
 # 팀 구성원, 역할 및 역량 #
 
-- Participant : Heo Honyung
-- Roles : Leader
-- Skills
-	- Programming : C, C#, Java
-	- Training needs : UML modeling, Communication Skills
-
-----------
-
-- Participant : Minsu Kim
-- Roles : Implementor, Tester
-- Skills
-	- Programming : C, C#, Python
+|Participant|Roles|Skills|
+|------|---|---|
+|Heo Honyung|Leader| - Programming : C, C#, Java
+ - Training needs : UML modeling, Communication Skills |
+|Minsu Kim|Implementor, Tester|	- Programming : C, C#, Python
 	- Databases : relational
-	- Training needs : UML modeling, Node.js framework
-
-----------
-
-- Participant : Wonhyuk Choi
-- Roles : Implementor, Tester
-- Skills
-	- Programming : C++, C#, Python
+	- Training needs : UML modeling, Node.js framework|
+|Wonhyuk Choi|Implementor, Tester|	- Programming : C++, C#, Python
 	- Databases : relational
-	- Training needs : UML modeling, Node.js framework
+	- Training needs : UML modeling, Node.js framework|
