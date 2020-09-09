@@ -5,10 +5,10 @@
 
 # 팀 구성원, 역할 및 역량 #
 
-|Participant|Roles|Skills|
-|------|---|---|
-|허호녕|Team Leader| Programming : C, C#, Java <br> Training needs : UML modeling, Communication Skills |
-|김민수|Implementor, Tester| Programming : C, C#, Python <br> Databases : relational <br> Training needs : UML modeling, Node.js framework|
-|최원혁|Implementor, Tester| Programming : C++, C#, Python <br> Databases : relational <br> Training needs : UML modeling, Node.js framework|
+|Participant|Roles|Skills|Training Needs|
+|------|---|---|---|
+|허호녕|Team Leader| Programming : C, C#, Java | UML modeling, Communication Skills |
+|김민수|Implementor, Tester| Programming : C, C#, Python <br> Databases : relational | UML modeling, Node.js framework|
+|최원혁|Implementor, Tester| Programming : C++, C#, Python <br> Databases : relational | UML modeling, Node.js framework|
 |유승민|||
 |이산가 비두샤|||
