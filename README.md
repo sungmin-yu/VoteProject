@@ -7,7 +7,7 @@
 
 |Participant|Roles|Skills|
 |------|---|---|
-|Heo Honyung|Leader| Programming : C, C#, Java  Training needs : UML modeling, Communication Skills |
+|Heo Honyung|Leader| Programming : C, C#, Java <br> Training needs : UML modeling, Communication Skills |
 |Minsu Kim|Implementor, Tester|	- Programming : C, C#, Python
 	- Databases : relational
 	- Training needs : UML modeling, Node.js framework|
