@@ -7,6 +7,8 @@
 
 |Participant|Roles|Skills|
 |------|---|---|
-|Heo Honyung|Leader| Programming : C, C#, Java <br> Training needs : UML modeling, Communication Skills |
-|Minsu Kim|Implementor, Tester| Programming : C, C#, Python <br> Databases : relational <br> Training needs : UML modeling, Node.js framework|
-|Wonhyuk Choi|Implementor, Tester| Programming : C++, C#, Python <br> Databases : relational <br> Training needs : UML modeling, Node.js framework|
+|허호녕|Team Leader| Programming : C, C#, Java <br> Training needs : UML modeling, Communication Skills |
+|김민수|Implementor, Tester| Programming : C, C#, Python <br> Databases : relational <br> Training needs : UML modeling, Node.js framework|
+|최원혁|Implementor, Tester| Programming : C++, C#, Python <br> Databases : relational <br> Training needs : UML modeling, Node.js framework|
+|유승민|||
+|이산가 비두샤|||
